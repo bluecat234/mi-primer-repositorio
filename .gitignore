@@ -1,0 +1,4 @@
+# cuando sincronicemos nuestro repositorio, vamos a ignorar la copia de seguridad
+*.bak
+#y tambien los archivos con codigo secreto
+*.class
